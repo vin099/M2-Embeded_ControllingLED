@@ -1,11 +1,11 @@
-PROJ_NAME = ledswitch
+PROJ_NAME = led
 
 BUILD_DIR = Build
 
 # All Source code files
 SRC = main.c\
-src/controllingled_on.c\
-src/controllingled_off.c\
+src/led_on.c\
+src/led_off.c\
 
 # All header file paths
 INC = -I inc
