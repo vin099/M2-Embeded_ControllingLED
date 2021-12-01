@@ -18,7 +18,4 @@ void controllingLED_on()
 		_delay_ms(2000);
 
 }
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Secur
+
