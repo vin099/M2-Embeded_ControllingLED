@@ -1,11 +1,11 @@
-#include "controllingLED.h"
+#include "controllingled.h"
 #define F_CPU 1000000UL
 #include <avr/io.h>
 #include <util/delay.h>
 
 
 
-void controllingLED_off()
+void controllingled_off()
 {
        PORTB &= (~(1<<PINB2))&(~(1<<PINB3)); 
 
