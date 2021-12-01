@@ -9,7 +9,7 @@
 #include <util/delay.h>
 
 
-#include "controllingLED.h"
+#include "controllingled.h"
 
 
 void peripheral_init(void)
@@ -29,11 +29,11 @@ int main(void)
 		if (!(PINB&(1<<PINB0)))
 		{
 			
-			controllingLED_on(); //if switch is on
+			controllingled_on(); //if switch is on
 		}
 		else
 		{
-			controllingLED_off(); //if switch is off
+			controllingled_off(); //if switch is off
 		}
 
 	}
