@@ -1,4 +1,4 @@
-PROJ_NAME = ControllingLED
+PROJ_NAME = controllingLED
 
 BUILD_DIR = Build
 
