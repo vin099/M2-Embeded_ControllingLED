@@ -7,6 +7,6 @@
 
 void controllingLED_off()
 {
-       PORTB &= (~(1<<PINB2))&(~(1<<PINB3)); // when switch is off led lights go off
+       PORTB &= (~(1<<PINB2))&(~(1<<PINB3)); 
 
 }
