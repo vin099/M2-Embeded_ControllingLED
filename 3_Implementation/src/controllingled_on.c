@@ -1,4 +1,4 @@
-#include "controllingLED.h"
+#include "controllingled.h"
 
 #define F_CPU 1000000UL
 #include <avr/io.h>
@@ -6,7 +6,7 @@
 
 
 
-void controllingLED_on()
+void controllingled_on()
 {
     PORTB |=(1<<PORTB2);
 		PORTB &=~(1<<PORTB3);
