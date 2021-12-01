@@ -4,8 +4,8 @@ BUILD_DIR = Build
 
 # All Source code files
 SRC = main.c\
-src/controllingLED_on.c\
-src/controllingLED_off.c\
+src/controllingled_on.c\
+src/controllingled_off.c\
 
 # All header file paths
 INC = -I inc
