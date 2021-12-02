@@ -4,7 +4,7 @@
 
 It is very cheap and easily available in variety of shape, color and size. The LEDs are also used in designing of message display boards and traffic control signal lights etc.
 # Objective
-   The main objective is to blink the led using ATmega328 and a switch to controll two LED's.
+   The main objective is to control the led using ATmega328.
 # Components used
 1.ATmega328   
 
