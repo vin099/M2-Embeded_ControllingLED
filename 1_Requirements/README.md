@@ -55,13 +55,13 @@ It is very cheap and easily available in variety of shape, color and size. The L
 | Id    	| Description     	| Status      	|
 |-------	|-----------------	|-------------	|
 | HLR_1 	| Microcontroller 	| Implemented 	|
-| HlR_2 	| Swtich          	| Implemented 	|
+| HlR_2 	| controller        | Implemented 	|
 | HLR_3 	| Two LED         	| Implemented 	|
 | HLR_4 	| Software        	| Implemented 	|
 # Low Level Requirements
 | Id    	| Description              	| Status      	|
 |-------	|--------------------------	|-------------	|
 | LLR_1 	| ATmega328                	| Implemented 	|
-| LLR_2 	| Swtich                   	| Implemented 	|
+| LLR_2 	| controller               	| Implemented 	|
 | LLR_3 	| Two LED                  	| Implemented 	|
 | LLR_4 	| Visual studio & SimulIDE 	| Implemented 	|
