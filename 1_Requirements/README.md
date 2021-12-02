@@ -38,8 +38,9 @@ It is very cheap and easily available in variety of shape, color and size. The L
     1.People are trying to learn an embedded programming language.
     2.In schools and colleges it can be implemented.
    ## How
-    1.By using softwares to exceute the program.
-    2.By loading the program in ATmega328.
+    1.A device that can convert incoming AC power to the proper DC voltage, and regulate the current flowing through the LED during operation.
+    2.By using softwares to exceute the program.
+    
 # SWOT Analysis
    ## Strengths
     1.Simple program to understand.
