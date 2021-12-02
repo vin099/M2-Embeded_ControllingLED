@@ -10,20 +10,20 @@ It is very cheap and easily available in variety of shape, color and size. The L
 
 2.Two LED 
 
-3.Switch
+3.Controller
 
 4.Resistor
 # software used
 1.simulIDe
 
 2.Visual Studie Code
-a
+
 
 # Features
    It has simple features.
        
-    1.It can switch off the LED's when switch is in off state.
-    2.It can switch on the LED's when switch is in on state.
+    1.It can switch off the LED's when controller is in off state.
+    2.It can switch on the LED's when controller is in on state.
 # 4W's and 1 H's
    ## Why
     1.To blink two LED's using a switch in ATmega328.
