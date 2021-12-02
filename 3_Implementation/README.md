@@ -6,4 +6,4 @@
 | document | Doxygen documentation |
 | inc | All header files |
 | simulation | simulation files |
-| src | Main source code for calculator |
+| src | Main source code for controllingLED |
