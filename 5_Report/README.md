@@ -79,3 +79,14 @@ It is very cheap and easily available in variety of shape, color and size. The L
 # Block Diagram
 ![Block Diagram](https://user-images.githubusercontent.com/94450629/144365818-23711a6b-0e17-4b6d-ae23-a79719deb60d.jpeg)
 # Simulation
+
+
+
+# Implementation
+# Folder Structure
+| Folder   |      Description     |
+|----------|:-------------:|
+| document | Doxygen documentation |
+| inc | All header files |
+| simulation | simulation files |
+| src | Main source code for calculator |
