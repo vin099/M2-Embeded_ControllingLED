@@ -26,11 +26,11 @@ It is very cheap and easily available in variety of shape, color and size. The L
     2.It can switch on the LED's when controller is in on state.
 # 4W's and 1 H's
    ## Why
-    1.To blink two LED's using a switch in ATmega328.
+    1.To control two LED's using a switch in ATmega328.
     2.To understand basic concepts in ATmega328.
    ## Where
     1. It can be used anywhere.
-    2. It can be used for understanding purposes in schools and colleges.
+    2. Connect the LED controller to the LED strip light.
    ## Who
     1.It can be used by students.
     2.It can be used by anyone who are new to embedded programming language.
